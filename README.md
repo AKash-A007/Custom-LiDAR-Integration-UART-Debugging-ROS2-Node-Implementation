@@ -115,7 +115,7 @@ lidar = serial.Serial(
 """
 Custom LiDAR ROS2 Node
 ----------------------
-Author: Akash A
+Author: Akash A, Akash A M
 Description:
     Custom ROS2 node to interface with a UART-based LiDAR sensor via /dev/ttyUSB0.
     Reads binary data frames directly from the serial port, decodes distance
